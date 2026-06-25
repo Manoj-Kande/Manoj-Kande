@@ -1,135 +1,147 @@
 # Hi 👋, I'm Manoj Kande
 
-### Software Engineer | Java • Spring Boot • React | Full Stack Developer
+### 🚀 Full Stack Developer | Java • Spring Boot • React
 
+> Building scalable full-stack applications with clean architecture, modern technologies, and a passion for solving real-world problems.
 
+---
 
-- 🔭 I'm currently working on **Building Java Spring Boot backend projects and enhancing my developer portfolio.**
+## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Advanced Spring Boot, Microservices, Docker, and System Design.**
+- 💻 Full Stack Developer specializing in **Java, Spring Boot, React, and REST APIs**
+- 🚀 Passionate about building scalable backend systems and modern web applications
+- 🌱 Currently learning **Microservices, Docker, AWS, and System Design**
+- 📚 Consistently improving problem-solving through Data Structures & Algorithms
+- 🤝 Open to collaborating on Java, Spring Boot, React, and Open Source projects
+- 🎯 Actively seeking **Software Engineer** and **Full Stack Developer** opportunities
 
-- 👯 I'm looking to collaborate on **Java, Spring Boot, and Open Source backend projects.**
+---
 
-- 🤝 I'm looking for help with **Backend architecture, Microservices, and Open Source contributions, Microservices, cloud deployment, and scalable backend architecture..**
+# 🛠 Tech Stack
 
-- 💬 Ask me about **Java, Spring Boot, React, JavaScript, REST APIs, Spring Security, SQL, Git, GitHub, and Full Stack Development.**
+### 💻 Languages
 
-- 📫 How to reach me **manojkande333@gmail.com**
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,c,mysql&perline=8"/>
+</p>
 
-- ⚡ Fun fact **I enjoy turning ideas into full-stack applications and continuously learning new technologies.**
+### ⚙️ Backend
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/13XEIR_Y6D1JGtcycuDqCsuyCO67rq2IE/view?usp=drive_link](https://drive.google.com/file/d/13XEIR_Y6D1JGtcycuDqCsuyCO67rq2IE/view?usp=drive_link)**
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,maven&perline=5"/>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap&perline=5"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3"/>
+</p>
+
+### ☁️ Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,idea,vscode&perline=8"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💼 Job Portal
+
+**Java • Spring Boot • React • MySQL**
+
+- Secure Authentication & Authorization
+- REST APIs
+- Responsive React UI
+- MySQL Database
+
+---
+
+## 👨‍💼 Employee Management System
+
+**Spring Boot • React • Hibernate**
+
+- CRUD Operations
+- Layered Architecture
+- RESTful APIs
+- Database Integration
+
+---
+
+## 📄 XML Data Extraction Tool
+
+**Java**
+
+- XML Parsing
+- Data Extraction
+- Java Models
+
+---
+
+## 📚 DSA Tracker
+
+- Java
+- Data Structures
+- Algorithms
+- Problem Solving
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manoj-Kande&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Kande&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Microservices
+- Docker
+- AWS
+- System Design
+- Design Patterns
+
+---
+
+# 🤝 Connect With Me
+
 <p align="left">
-<a href="https://github.com/Manoj-Kande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Manoj-Kande" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manoj-kande-1629b8283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-kande-1629b8283/" height="30" width="40" /></a>
 
-<a href="https://hackerrank.com/https://www.hackerrank.com/profile/h2210030472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/h2210030472" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/2210030472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/2210030472" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/2210030472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/2210030472/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manoj_472" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef"  align="center" width="40" height="40 "/>
+<a href="https://github.com/Manoj-Kande" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-## 💻 Languages
+<a href="https://www.linkedin.com/in/manoj-kande-1629b8283/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,html,css&perline=7" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/2210030472/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
----
+<a href="mailto:manojkande333@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🚀 Backend
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,django,flask,fastapi,graphql&perline=8" />
-  </a>
 </p>
 
 ---
 
-## 🎨 Frontend
+# 💡 Philosophy
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind,sass&perline=6" />
-  </a>
-</p>
+> **"Great software is built with clean code, continuous learning, and attention to detail."**
 
 ---
-
-## 🗄️ Databases & Search
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&perline=5" />
-  </a>
-</p>
-
----
-
-## ☁️ Cloud, DevOps & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,postman,grafana,kafka,rabbitmq,maven,idea,vscode&perline=7" />
-  </a>
-</p>
-
----
-
-## 🤖 AI / Data Science
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch&perline=2" />
-  </a>
-
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="48" height="48"/>
-</p>
-
----
-
-## ⚙️ Platforms & Services
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,appwrite,figma&perline=3" />
-  </a>
-</p>
-
----
-
-## 🧪 Testing
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest&perline=1" />
-  </a>
-
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="Jasmine" width="48" height="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="Karma" width="48" height="48"/>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-Kande&show_icons=true&locale=en&layout=compact" alt="Manoj-Kande" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manoj-Kande&show_icons=true&locale=en" alt="Manoj-Kande" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Kande&" alt="Manoj-Kande" /></p>
-
