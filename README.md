@@ -32,10 +32,81 @@
 <a href="https://leetcode.com/https://leetcode.com/u/2210030472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/2210030472/" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+## 💻 Languages
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,html,css&perline=7" />
   </a>
+</p>
+
+---
+
+## 🚀 Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,django,flask,fastapi,graphql&perline=8" />
+  </a>
+</p>
+
+---
+
+## 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind,sass&perline=6" />
+  </a>
+</p>
+
+---
+
+## 🗄️ Databases & Search
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&perline=5" />
+  </a>
+</p>
+
+---
+
+## ☁️ Cloud, DevOps & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,postman,grafana,kafka,rabbitmq,maven,idea,vscode&perline=7" />
+  </a>
+</p>
+
+---
+
+## 🤖 AI / Data Science
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch&perline=2" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="48" height="48"/>
+</p>
+
+---
+
+## ⚙️ Platforms & Services
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,appwrite,figma&perline=3" />
+  </a>
+</p>
+
+---
+
+## 🧪 Testing
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest&perline=1" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="Jasmine" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="Karma" width="48" height="48"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-Kande&show_icons=true&locale=en&layout=compact" alt="Manoj-Kande" /></p>
