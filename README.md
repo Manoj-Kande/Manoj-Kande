@@ -2,9 +2,7 @@
 
 ### Software Engineer | Java • Spring Boot • React | Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoj-Kande&label=Profile views&color=0e75b6&style=flat" alt="Manoj-Kande" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manoj-Kande" alt="Manoj-Kande" /></a> </p>
 
 - 🔭 I'm currently working on **Building Java Spring Boot backend projects and enhancing my developer portfolio.**
 
@@ -26,10 +24,13 @@
 <p align="left">
 <a href="https://github.com/Manoj-Kande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Manoj-Kande" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manoj-kande-1629b8283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-kande-1629b8283/" height="30" width="40" /></a>
-<a href="https://codechef.com/users/https://www.codechef.com/users/manoj_472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="https://www.codechef.com/users/manoj_472" height="30" width="40" /></a>
+
 <a href="https://hackerrank.com/https://www.hackerrank.com/profile/h2210030472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/h2210030472" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/2210030472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/2210030472" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/2210030472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/2210030472/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/manoj_472" target="_blank">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef"  align="center" width="40" height="40 "/>
+</a>
 </p>
 
 ## 💻 Languages
