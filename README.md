@@ -33,6 +33,7 @@
 </p>
 
 ## 💻 Languages
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,html,css&perline=7" />
@@ -42,6 +43,7 @@
 ---
 
 ## 🚀 Backend
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,django,flask,fastapi,graphql&perline=8" />
@@ -51,6 +53,7 @@
 ---
 
 ## 🎨 Frontend
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind,sass&perline=6" />
@@ -60,6 +63,7 @@
 ---
 
 ## 🗄️ Databases & Search
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&perline=5" />
@@ -69,6 +73,7 @@
 ---
 
 ## ☁️ Cloud, DevOps & Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,postman,grafana,kafka,rabbitmq,maven,idea,vscode&perline=7" />
@@ -78,20 +83,28 @@
 ---
 
 ## 🤖 AI / Data Science
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,pytorch&perline=2" />
-    
+  </a>
+
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="48" height="48"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="48" height="48"/>
 </p>
 
 ---
 
 ## ⚙️ Platforms & Services
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,appwrite,figma&perline=3" />
@@ -101,11 +114,15 @@
 ---
 
 ## 🧪 Testing
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest&perline=1" />
-    
+  </a>
+
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="Jasmine" width="48" height="48"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" alt="Karma" width="48" height="48"/>
 </p>
 
