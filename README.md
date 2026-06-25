@@ -51,48 +51,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 💼 Job Portal
-
-**Java • Spring Boot • React • MySQL**
-
-- Secure Authentication & Authorization
-- REST APIs
-- Responsive React UI
-- MySQL Database
-
----
-
-## 👨‍💼 Employee Management System
-
-**Spring Boot • React • Hibernate**
-
-- CRUD Operations
-- Layered Architecture
-- RESTful APIs
-- Database Integration
-
----
-
-## 📄 XML Data Extraction Tool
-
-**Java**
-
-- XML Parsing
-- Data Extraction
-- Java Models
-
----
-
-## 📚 DSA Tracker
-
-- Java
-- Data Structures
-- Algorithms
-- Problem Solving
-
----
 
 # 📈 GitHub Stats
 
